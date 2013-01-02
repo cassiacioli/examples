@@ -1,4 +1,4 @@
 examples
 ========
 
-exemplos de uso do github
+exemplos de uso do git e github.
